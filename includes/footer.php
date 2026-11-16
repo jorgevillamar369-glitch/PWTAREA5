@@ -29,7 +29,7 @@
           Fotografías: Unsplash.<br>
           Tipografías: Newsreader y Public Sans (Google Fonts).
         </p>
-        <p class="pie__fecha"><?= date('Y') ?> · Quito, Ecuador</p>
+        <p class="pie__fecha"><?= date('Y') ?></p>
       </div>
     </div>
   </div>
