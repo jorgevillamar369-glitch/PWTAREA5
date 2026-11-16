@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Biblioteca 04">
+  <rect width="64" height="64" fill="#1d4e89"/>
+  <rect x="14" y="14" width="5" height="36" fill="#e8edf2"/>
+  <rect x="23" y="14" width="5" height="36" fill="#e8edf2" opacity="0.72"/>
+  <rect x="32" y="14" width="5" height="36" fill="#e8edf2" opacity="0.46"/>
+  <rect x="44" y="19" width="7" height="31" fill="#e8edf2"/>
+</svg>

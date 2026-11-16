@@ -1,0 +1,12 @@
+<?php
+/**
+ * Copia este archivo como config.local.php y escribe los datos
+ * de tu servidor MySQL para probar en local.
+ */
+return [
+    'host'    => '127.0.0.1',
+    'puerto'  => '3306',
+    'nombre'  => 'pwtarea5_local',
+    'usuario' => 'root',
+    'clave'   => '',
+];
