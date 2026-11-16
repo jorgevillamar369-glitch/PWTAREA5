@@ -209,7 +209,7 @@ include __DIR__ . '/includes/header.php';
     </div>
   </section>
 
-  <section class="seccion seccion--equipo">
+  <section class="seccion seccion--equipo" id="equipo">
     <div class="contenedor equipo">
       <div class="equipo__intro">
         <p class="rotulo">Equipo</p>

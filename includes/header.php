@@ -39,6 +39,7 @@ $activo  = $activo ?? '';
     <nav id="menu" class="menu collapse d-lg-flex">
       <a class="menu__enlace <?= $activo === 'inicio' ? 'menu__enlace--activo' : '' ?>" href="index.php">Inicio</a>
       <a class="menu__enlace <?= $activo === 'catalogo' ? 'menu__enlace--activo' : '' ?>" href="index.php#catalogo">Catálogo</a>
+      <a class="menu__grupo" href="index.php#equipo">Grupo 04</a>
 
       <?php if ($usuario): ?>
         <a class="menu__enlace <?= $activo === 'panel' ? 'menu__enlace--activo' : '' ?>" href="panel.php">Mi panel</a>
